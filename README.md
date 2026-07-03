@@ -1,0 +1,2 @@
+# Automacao-N8N-Chatbot-Whatsapp-Inteligencia-Computacional-2026
+O repositório corresponde a alguns dos artefatos produzidos durante o projeto final da disciplina de Inteligência Computacional ministrada no primeiro semestre de 2026 no IFB - Campus Taguatinga. Ele consistiu na construção de uma rotina de automação de atendimentos via WhatsApp para uma empresa irlandesa de bicicletas através da ferramenta n8n.
